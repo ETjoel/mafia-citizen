@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511268448791",
+    "project_id": "mafia-vs-civilans",
+    "storage_bucket": "mafia-vs-civilans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511268448791:android:26904f0a9039325aea8a52",
+        "android_client_info": {
+          "package_name": "com.example.mafia_citizen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wBK6kFGzllKlGZa733tYCK9Wb5L2ALg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
